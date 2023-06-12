@@ -26,9 +26,11 @@ This project is a starting point for a Flutter application.
 
 A single page that displays a list of items.
 
-![11](https://github.com/hamimahamedornab/My-Shopping-List/assets/75578573/010c07b2-cbbd-49b3-9e20-26cf571736fc)
+![11](https://github.com/hamimahamedornab/My-Shopping-List/assets/75578573/32f9bafd-3778-42b9-86d4-ba036e9ff8cb)
+
 
 With the message "Cart is empty".
 
-![12](https://github.com/hamimahamedornab/My-Shopping-List/assets/75578573/969cd395-f46a-4164-bdd8-21c8038c03a1)
+![12](https://github.com/hamimahamedornab/My-Shopping-List/assets/75578573/1914e034-f4da-45f1-b0d7-e3cc165bceca)
+
 
